@@ -22,7 +22,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>org.zeroturnaround.jf2012.hw7.Main</mainClass>
+              <mainClass>org.zeroturnaround.jf2012.hw8.Main</mainClass>
             </manifest>
           </archive>
           <finalName>jf2012-executable</finalName>
