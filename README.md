@@ -18,7 +18,7 @@ adhere to the same interface but they are accessible from the interwebs.
 
 The plugins are hosted at https://github.com/zeroturnaround/jf-2012-hw7/tree/master/plugins-remote You can
 hardcode the location of the plugins into your application but make sure that your program reads the PNG files
-from the internets and not from local disk.
+from the internets and not from local disk (it is okay if your program writes intermediate info on disk).
 
 The plugins are hidden inside PNG files and your task is to find, extract and define classes from the plugins. Once
 you've implemented your solution the org.zeroturnaround.jf2012.hw7.Main program should run without any errors and
