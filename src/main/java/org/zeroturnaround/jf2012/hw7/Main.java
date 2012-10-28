@@ -20,6 +20,7 @@ public class Main {
       System.out.println(plugin);
     }
     
+    System.out.println();
     System.out.println("Find all remote plugins from the interwebs");
     System.out.println();
     
