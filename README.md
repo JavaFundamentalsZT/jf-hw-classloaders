@@ -16,7 +16,7 @@ Your task
 Write a custom class loader and all necessary logic to support remote plugins. Remote plugins
 adhere to the same interface but they are accessible from the interwebs.
 
-The plugins are hosted at https://github.com/zeroturnaround/jf-2012-hw7/tree/master/plugins-remote You can
+The plugins are hosted at https://github.com/zeroturnaround/jf-2012-hw8/tree/master/plugins-remote You can
 hardcode the locations of the plugins into your application but make sure that your program reads the PNG files
 from the internets and not from local disk (it is okay if your program writes intermediate info on disk).
 
