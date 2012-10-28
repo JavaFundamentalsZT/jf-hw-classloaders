@@ -1,4 +1,4 @@
-package org.zeroturnaround.jf2012.hw7.local;
+package org.zeroturnaround.jf2012.hw8.local;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
 
-import org.zeroturnaround.jf2012.hw7.Plugin;
+import org.zeroturnaround.jf2012.hw8.Plugin;
 
 public class LocalPluginManager {
 

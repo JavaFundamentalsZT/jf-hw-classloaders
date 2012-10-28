@@ -1,6 +1,6 @@
-package org.zeroturnaround.jf2012.hw7.local;
+package org.zeroturnaround.jf2012.hw8.local;
 
-import org.zeroturnaround.jf2012.hw7.Plugin;
+import org.zeroturnaround.jf2012.hw8.Plugin;
 
 public class ZTPlugin implements Plugin {
 
