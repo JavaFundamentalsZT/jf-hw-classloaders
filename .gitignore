@@ -4,5 +4,5 @@
 bin
 target
 plugin-bin
-src/main/java/org/zeroturnaround/jf2012/hw7/remote
-src/main/plugins/org/zeroturnaround/jf2012/hw7/remote
+src/main/java/org/zeroturnaround/jf2012/hw8/remote
+src/main/plugins/org/zeroturnaround/jf2012/hw8/remote
