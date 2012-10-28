@@ -20,7 +20,8 @@ The plugins are hosted at https://github.com/zeroturnaround/jf-2012-hw8/tree/mas
 hardcode the locations of the plugins into your application but make sure that your program reads the PNG files
 from the internets and not from local disk (it is okay if your program writes intermediate info on disk).
 
-The plugins are hidden inside PNG files and your task is to find, extract and define classes from the plugins. Once
+The plugins are hidden inside PNG files and your task is to find, extract and define classes. So one more time. The bytes
+of the classes that define the plugins are somewhere in the PNG files. Once
 you've implemented your solution the org.zeroturnaround.jf2012.hw8.Main program should run without any errors and
 print out all remote plugins (currently only prints names and null values). We've also provided empty implementations
 of RemotePluginManager and RemotePluginLoader.
