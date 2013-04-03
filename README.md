@@ -22,7 +22,7 @@ from the internets and not from local disk (it is okay if your program writes in
 
 The plugins are hidden inside PNG files and your task is to find, extract and define classes. So one more time. The bytes
 of the classes that define the plugins are somewhere in the PNG files. Once
-you've implemented your solution the org.zeroturnaround.jf2012.hw.classloaders.Main program should run without any errors and
+you've implemented your solution the org.zeroturnaround.jf.hw.classloaders.Main program should run without any errors and
 print out all remote plugins (currently only prints names and null values). We've also provided empty implementations
 of RemotePluginManager and RemotePluginLoader.
 

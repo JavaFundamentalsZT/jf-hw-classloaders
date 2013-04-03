@@ -22,7 +22,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>org.zeroturnaround.jf2012.hw.classloaders.Main</mainClass>
+              <mainClass>org.zeroturnaround.jf.hw.classloaders.Main</mainClass>
             </manifest>
           </archive>
           <finalName>jf-hw-classloaders</finalName>

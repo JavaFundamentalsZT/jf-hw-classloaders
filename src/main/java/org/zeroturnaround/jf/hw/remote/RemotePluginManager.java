@@ -14,9 +14,9 @@ public class RemotePluginManager {
   private static Map<String, String> findAllPluginInfos() {
     return new HashMap() {
       {
-        put("NomNomNomPlugin", "https://raw.github.com/zeroturnaround/jf-2012-hw8/master/plugins-remote/NomNomNomPlugin/README.properties");
-        put("ChickenPlugin", "https://raw.github.com/zeroturnaround/jf-2012-hw8/master/plugins-remote/ChickenPlugin/README.properties");
-        put("HeadAndShouldersPlugin", "https://raw.github.com/zeroturnaround/jf-2012-hw8/master/plugins-remote/HeadAndShouldersPlugin/README.properties");
+        put("NomNomNomPlugin", "https://raw.github.com/zeroturnaround/jf-hw-classloaders/master/plugins-remote/NomNomNomPlugin/README.properties");
+        put("ChickenPlugin", "https://raw.github.com/zeroturnaround/jf-hw-classloaders/master/plugins-remote/ChickenPlugin/README.properties");
+        put("HeadAndShouldersPlugin", "https://raw.github.com/zeroturnaround/jf-hw-classloaders/master/plugins-remote/HeadAndShouldersPlugin/README.properties");
       }
     };
   }
