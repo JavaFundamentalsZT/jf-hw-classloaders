@@ -1,4 +1,4 @@
-package org.zeroturnaround.jf2012.hw8;
+package org.zeroturnaround.jf.hw;
 
 public interface Plugin {
   public String getName();

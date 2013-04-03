@@ -1,9 +1,9 @@
-package org.zeroturnaround.jf2012.hw8.remote;
+package org.zeroturnaround.jf.hw.remote;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import org.zeroturnaround.jf2012.hw8.Plugin;
+import org.zeroturnaround.jf.hw.Plugin;
 
 public class RemotePluginManager {
 

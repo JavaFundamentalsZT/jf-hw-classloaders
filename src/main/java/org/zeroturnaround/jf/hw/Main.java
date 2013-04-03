@@ -1,7 +1,7 @@
-package org.zeroturnaround.jf2012.hw8;
+package org.zeroturnaround.jf.hw;
 
-import org.zeroturnaround.jf2012.hw8.local.LocalPluginManager;
-import org.zeroturnaround.jf2012.hw8.remote.RemotePluginManager;
+import org.zeroturnaround.jf.hw.local.LocalPluginManager;
+import org.zeroturnaround.jf.hw.remote.RemotePluginManager;
 
 /**
  * Iterates through all local plugins and prints them out. First
