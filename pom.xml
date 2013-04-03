@@ -22,10 +22,10 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>org.zeroturnaround.jf2012.hw8.Main</mainClass>
+              <mainClass>org.zeroturnaround.jf2012.hw.classloaders.Main</mainClass>
             </manifest>
           </archive>
-          <finalName>jf2012-executable</finalName>
+          <finalName>jf-hw-classloaders</finalName>
         </configuration>
       </plugin>
       <!-- This plugin will package all dependencies to the final runtime -->
