@@ -4,7 +4,7 @@ import org.zeroturnaround.jf.hw.local.LocalPluginManager;
 import org.zeroturnaround.jf.hw.remote.RemotePluginManager;
 
 /**
- * Iterates through all local plugins and prints them out. First
+ * Iterates through all plugins and prints them out. First
  * iterates through local plugins and then through remote plugins.
  */
 public class Main {
