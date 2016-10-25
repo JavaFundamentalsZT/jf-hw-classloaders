@@ -22,6 +22,9 @@ public class RemotePluginManager {
   }
 
   public static Plugin getPluginInstance(String string) {
+    // see the LocalPluginManager getPluginInstance(String str);
+    // method and implement something similar.
+
     return null;
   }
 }
