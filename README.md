@@ -33,4 +33,4 @@ Happy hacking!
 Submitting Homework
 -------------------
 
-Issue a `mvn clean` and ZIP the folder and send it to jf@zeroturnaround.com
+Issue a `mvn clean` and then ZIP the folder and send it to jf@zeroturnaround.com
