@@ -29,3 +29,8 @@ you've implemented your solution the *org.zeroturnaround.jf.hw.classloaders.Main
 Make sure that your program reads the PNG files from the network and not from local disk. For example you can use the java.util.Properties to load properties from a remote properties file by using streams (java.net.URL can also help here).
 
 Happy hacking!
+
+Submitting Homework
+-------------------
+
+Issue a `mvn clean` and ZIP the folder and send it to jf@zeroturnaround.com
