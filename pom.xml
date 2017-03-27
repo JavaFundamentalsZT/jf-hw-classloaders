@@ -4,10 +4,9 @@
   <groupId>org.zeroturnaround.jf</groupId>
   <artifactId>homework9</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>ClassLoadersHW</name>
+  <name>jf-${project.artifactId}</name>
 
   <properties>
-    <name>jf-${project.artifactId}</name>
     <url>https://github.com/JavaFundamentalsZT/jf-hw-classloaders</url>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
