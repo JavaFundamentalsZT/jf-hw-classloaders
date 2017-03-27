@@ -27,7 +27,6 @@ public class LocalPluginLoader extends ClassLoader {
     Path path = FileSystems.getDefault().getPath(pluginLocation.getAbsolutePath(), classFileLocation);
 
     if (!path.toFile().exists()) {
-      System.out.println("Unable to find class " + path);
       throw new ClassNotFoundException(name);
     }
 

@@ -1,7 +1,11 @@
 package org.zeroturnaround.jf.hw.remote;
 
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Properties;
 
 import org.zeroturnaround.jf.hw.Plugin;
 
@@ -26,5 +30,19 @@ public class RemotePluginManager {
     // method and implement something similar.
 
     return null;
+  }
+
+  /*
+   * Simple method to load remote property files.
+   */
+  public static Properties loadPropertiesFile(URL url) {
+    Properties tmp = new Properties();
+    try (InputStream is = url.openStream()) {
+      tmp.load(is);
+    }
+    catch (IOException e) {
+      throw new RuntimeException(e);
+    }
+    return tmp;
   }
 }
